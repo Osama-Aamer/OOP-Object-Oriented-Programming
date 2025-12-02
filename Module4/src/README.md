@@ -1,7 +1,21 @@
 # Calculator – MVC Model Class
+### Evaluation of GitHub Copilot
 
-This is a simple **Calculator** class that acts as the **Model** in the MVC pattern.  
-It maintains a running sum of **positive integers only**. Negative numbers are rejected with an exception.
+| Benefits                                              | Drawbacks                                              |
+|-------------------------------------------------------|--------------------------------------------------------|
+| Extremely fast for boilerplate & validation code      | Sometimes suggests outdated or verbose patterns        |
+| Understands natural-language comments perfectly       | Requires careful review — not always 100 % correct     |
+| Excellent at generating Javadoc & exception handling  | Can make you lazy if over-relied on                    |
+| Huge productivity boost (3–5× faster coding)          | May reduce deep understanding for complete beginners   |
+| Great teaching tool — shows clean, idiomatic Java     | Occasionally hallucinates wrong method names           |
+
+**Personal conclusion**  
+GitHub Copilot is one of the best programming tools I have ever used.  
+In this assignment it wrote **~85 % of the code correctly on the first suggestion**. I only had to adjust formatting and add the demonstration in `main()`.  
+Highly recommended for experienced developers — it removes tedium and lets you focus on design.  
+Very helpful for beginners too, but only when used with understanding and review.
+
+**Score: 9.5 / 10**
 
 ## Features
 - Add positive integers

@@ -7,7 +7,6 @@ public class CurrencyModel {
     private final Map<String, Currency> currencies = new LinkedHashMap<>();
 
     public CurrencyModel() {
-        // Hardcoded rates to USD (as allowed in the assignment)
         addCurrency("USD", "US Dollar", 1.0);
         addCurrency("EUR", "Euro", 0.94);
         addCurrency("GBP", "British Pound", 0.82);

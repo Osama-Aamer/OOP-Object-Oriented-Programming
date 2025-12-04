@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Assignment6.1</module>
+        <module>Assignment6.2</module>
     </modules>
 
     <properties>

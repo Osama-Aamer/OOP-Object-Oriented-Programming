@@ -1,0 +1,12 @@
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+.combo-box {
+    -fx-pref-width: 200px;
+}

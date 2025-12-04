@@ -11,9 +11,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <!-- ONLY CHANGE THIS LINE -->
+
     <artifactId>Assignment6.2</artifactId>
-    <!-- instead of Assignment6.1 -->
+
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

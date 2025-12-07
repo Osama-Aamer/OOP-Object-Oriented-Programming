@@ -11,6 +11,8 @@
     <modules>
         <module>Assignment6.1</module>
         <module>Assignment6.2</module>
+        <module>Assignment6.3</module>
+        <module>Assignment6.4</module>
     </modules>
 
     <properties>
